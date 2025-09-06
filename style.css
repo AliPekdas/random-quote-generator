@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    padding-bottom: 200px;
+    background: url(https://cdn.wallpapersafari.com/91/29/fjZHCt.jpg) no-repeat center center/cover;
+}
+
+.container {
+    width: 550px;
+    height: 450px;
+}
+
+.header {
+    width: 100%;
+    border-radius: 5px;
+    background-color: #262626;
+    color: white;
+    padding: 7px;
+    margin: 20px auto;
+}
+
+.main-content {
+    width: 100%;
+    height: 350px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 50px 40px;
+    box-shadow:  0 0 10px;
+    margin: 20px auto;
+}
+
+.text-area {
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.person {
+    font-size: 1.6rem;
+    color: red;
+    margin-top: 20px;
+}
+
+.button-area button{
+    background-color: #262626;
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
+
+.button-area button:active {
+    background-color: lightblue;
+}
