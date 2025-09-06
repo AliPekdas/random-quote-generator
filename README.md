@@ -11,5 +11,5 @@ Responsive layout centered on the screen.
 # 🛠️ Technologies Used
 HTML5 – Structure of the app.  
 CSS3 – Styling, layout, and responsiveness.  
-JavaScript (Vanilla JS) – Logic for generating random quotes.   
+JavaScript (Vanilla JS) – Logic for generating random quotes.  
 Google Fonts – Roboto Mono font for better aesthetics.
