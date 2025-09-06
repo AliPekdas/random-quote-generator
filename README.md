@@ -13,3 +13,8 @@ HTML5 – Structure of the app.
 CSS3 – Styling, layout, and responsiveness.  
 JavaScript (Vanilla JS) – Logic for generating random quotes.  
 Google Fonts – Roboto Mono font for better aesthetics.
+
+## Roadmap
+- [ ] Add API for live quotes
+- [ ] Add "Share on Twitter" button
+- [ ] Dark mode support
