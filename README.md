@@ -1,5 +1,5 @@
 # 📜 Random Quote Generator
-A simple and interactive Random Quote Generator built with HTML, CSS, and JavaScript.
+A simple and interactive Random Quote Generator built with HTML, CSS, and JavaScript.  
 Click the button to display a new random quote along with its author.
 
 # 🚀 Features
