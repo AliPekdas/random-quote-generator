@@ -3,7 +3,7 @@ A simple and interactive Random Quote Generator built with HTML, CSS, and JavaSc
 Click the button to display a new random quote along with its author.
 
 # 🚀 Features
-Displays a random quote with author name.
+Displays a random quote with author name. 
 Clean and modern UI with background image.
 Button to generate a new quote instantly.
 Responsive layout centered on the screen.
